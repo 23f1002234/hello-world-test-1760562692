@@ -2,12 +2,13 @@
 
     **Brief:** Create a simple Hello World page that displays today's date. The page must have an h1 element with id='hello' containing 'Hello World', and a paragraph with id='date' showing today's date in YYYY-MM-DD format.
 
+UPDATE:
+Add a Bootstrap button with id='click-me' that shows an alert 'Button clicked!' when clicked.
+
     ## Features / Checks
-    - Repo has MIT LICENSE
-- README.md exists and is professional
-- Page has h1#hello with text 'Hello World'
-- Page has element #date showing current date
-- Page uses Bootstrap CSS from CDN
+    - Page still has h1#hello with 'Hello World'
+- Page has button#click-me
+- Button shows alert when clicked
 
     ## Usage
     Open `index.html` in a browser, or visit the GitHub Pages link.
